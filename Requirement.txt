@@ -1,0 +1,7 @@
+scikit-learn
+matplotlib.pyplot 
+matplotlib.colors 
+matplotlib.patches 
+seaborn 
+numpy 
+pandas 

@@ -1,4 +1,5 @@
 
+## Heart Disase
 
 
 
@@ -93,3 +94,13 @@ yöntem bulunmaktadır. Bunlar, binning, kümeleme ve
 regresyon yöntemleridir. Olabilecek veri
 tutarsızlıkları ise dışsal referans kullanarak
 giderilebilir [12]. 
+----
+
+# What is a Decision Tree?
+A decision tree is a tree-based supervised learning method used to predict the output of a target variable. Supervised learning uses labeled data (data with known output variables) to make predictions with the help of regression and classification algorithms. Supervised learning algorithms act as a supervisor for training a model with a defined output variable. It learns from simple decision rules using the various data features. Decision trees in Python can be used to solve both classification and regression problems—they are frequently used in determining odds. 
+Advantages of Using Decision Trees
+Decision trees are simple to understand, interpret, and visualize
+They can effectively handle both numerical and categorical data
+They can determine the worst, best, and expected values for several scenarios
+Decision trees require little data preparation and data normalization
+They perform well, even if the actual model violates the assumptions

@@ -11,8 +11,8 @@ diagnosis of a heart attack at the maximum level. The values in the data set wit
 chest pain type, exercise-induced angina, and exercise-induced ST depression have a high rate of
 correlation with the diagnosis of a heart attack. Analysis results were visualized and added to the
 study. For the diagnosis of heart attack, 4 different algorithms were applied, namely the C4.5
-decision tree, k-nearest neighbor, random forest, and SVM, which were successful in other
-studies, and their results were compared. The C4.5 decision tree algorithm has been the most
+decision tree, k-nearest neighbor, Naive Bayes,Logistic Regression which were successful in other
+studies, and their results were compared. The  decision tree algorithm has been the most
 accurate algorithm for predicting heart attack diagnosis. According to World Health Organization (WHO) data,
 deaths due to cardiovascular diseases take the first place among all deaths with 30 percent. In our country, 
 this rate is around 47 percent . Myocardial infarction (MI), which is one of the coronary artery diseases and popularly called heart attack,

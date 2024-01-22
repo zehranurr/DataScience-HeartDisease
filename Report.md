@@ -109,3 +109,9 @@ Decision Trees (DTs) are a non-parametric supervised learning method used for cl
 # The disadvantages of decision trees include:
 
 Decision-tree learners can create over-complex trees that do not generalize the data well. This is called overfitting. Mechanisms such as pruning, setting the minimum number of samples required at a leaf node or setting the maximum depth of the tree are necessary to avoid this problem.
+
+
+
+ ------------- The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups. Such as, Yes or No, 0 or 1, Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or categories.
+Binary Classifier: If the classification problem has only two possible outcomes, then it is called as Binary Classifier.
+Examples: YES or NO, MALE or FEMALE, SPAM or NOT SPAM, CAT or DOG, etc.

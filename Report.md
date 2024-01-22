@@ -1,10 +1,5 @@
 
 ## Heart Disase
-
-
-
-
-
 It is predicted that heart disease, one of the most common diseases in the world, will continue to
 be the number one cause of death for a long time. The fact that many of the factors of heart disease
 can be prevented or treated is an opportunity to decrease the loss of life as a result of the disease.
@@ -143,3 +138,4 @@ Examples: YES or NO, MALE or FEMALE, SPAM or NOT SPAM, CAT or DOG, etc.
 
 
 
+- https://dergipark.org.tr/en/download/article-file/1461309

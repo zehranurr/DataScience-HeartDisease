@@ -112,6 +112,34 @@ Decision-tree learners can create over-complex trees that do not generalize the 
 
 
 
+
+
+# What is a Naive Bayes?
+  Naive Bayes is a statistical classification technique based on Bayes Theorem. It is one of the simplest supervised learning algorithms. Naive Bayes classifier is the fast, accurate and reliable algorithm. Naive Bayes classifiers have high accuracy and speed on large datasets.
+
+#  Advantages
+- Less complex: Compared to other classifiers, Naïve Bayes is considered a simpler classifier since the parameters are easier to  estimate. As a result, it’s one of the first algorithms learned within data science and machine learning courses.   
+- Scales well: Compared to logistic regression, Naïve Bayes is considered a fast and efficient classifier that is fairly accurate when the conditional independence assumption holds. It also has low storage requirements. 
+- Can handle high-dimensional data: Use cases, such document classification, can have a high number of dimensions, which can be difficult for other classifiers to manage. 
+
+ # Disadvantages:   
+- Subject to Zero frequency: Zero frequency occurs when a categorical variable does not exist within the training set. For example, imagine that we’re trying to find the maximum likelihood estimator for the word, “sir” given class “spam”, but the word, “sir” doesn’t exist in the training data. The probability in this case would zero, and since this classifier multiplies all the conditional probabilities together, this also means that posterior probability will be zero. To avoid this issue, laplace smoothing can be leveraged. 
+- Unrealistic core assumption: While the conditional independence assumption overall performs well, the assumption does not always hold, leading to incorrect classifications. 
+
+
+
+
+
+
+
+
+
+
+
  ------------- The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups. Such as, Yes or No, 0 or 1, Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or categories.
 Binary Classifier: If the classification problem has only two possible outcomes, then it is called as Binary Classifier.
 Examples: YES or NO, MALE or FEMALE, SPAM or NOT SPAM, CAT or DOG, etc.
+
+
+
+

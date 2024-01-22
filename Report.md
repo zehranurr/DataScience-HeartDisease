@@ -174,4 +174,4 @@ FOR MORE INFORMATION YOU CAN VISIT SOURCE LINK BELOW
 - https://www.ibm.com/
 - https://scikit-learn.org/
 - https://www.jeremyjordan.me/evaluating-a-machine-learning-model/
-- https://www.geeksforgeeks.org/machine-learning-model-evaluation/
+- https://www.geeksforgeeks.org/machine-learning-model-evaluation/r

@@ -6,5 +6,5 @@
 - To se  Data Set  of Heart-Disease  please see the the Data  folder.
 - I have filed a file with its own name for each of the algorithms I use. You can review whatever you want.
 - I wrote a summary report that contains information about heart disease and explains the Algorithm structures. Please visit the   Report.md  file to review.
-- For all required libraries ---> Install Requirement.txt
+- For all required libraries ---> Install Requirement.txt.
 
